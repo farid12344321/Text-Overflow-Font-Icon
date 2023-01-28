@@ -1,0 +1,56 @@
+
+body{
+    background-color: white;
+}
+.box1 {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    margin-left: 500px;
+    width: 500px;
+    height: 700px;
+    position: absolute;
+    background-color: white;
+}
+
+
+
+
+
+
+
+.box1 h2 {
+    
+    text-align: center;
+    margin-left: 120px;
+    width: 200px;
+    font-size: 80px;
+    font-family: 'Ephesis', cursive;
+}
+
+.box1 .color1{
+    font-family: 'Chivo Mono', monospace;
+    margin-left: 100px;
+}
+.box1 h6{
+    font-family: 'Chivo Mono', monospace;
+    margin-left: 185px;
+    
+  
+}
+
+.box1 .color2{
+    font-family: 'Chivo Mono', monospace;
+    margin-left: 100px;
+}
+
+
+
+
+.box1 .color3{
+    margin-left: 185px;
+    font-family: 'Chivo Mono', monospace;
+}
+
+.box1 .color4{
+    margin-left: 185px;
+    font-family: 'Nanum Pen Script', cursive;
+}
